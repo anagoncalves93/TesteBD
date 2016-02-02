@@ -1,0 +1,7 @@
+C:\Users\Ana\Documents\Entrevistas\TesteBD\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Documents\Entrevistas\TesteBD\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Ana\Documents\Entrevistas\TesteBD\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Ana\Documents\Entrevistas\TesteBD\DataAccess\bin\Debug\DomainModel.dll
+C:\Users\Ana\Documents\Entrevistas\TesteBD\DataAccess\bin\Debug\DomainModel.pdb
+C:\Users\Ana\Documents\Entrevistas\TesteBD\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Ana\Documents\Entrevistas\TesteBD\DataAccess\obj\Debug\DataAccess.pdb

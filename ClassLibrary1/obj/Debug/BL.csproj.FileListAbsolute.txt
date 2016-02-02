@@ -1,0 +1,9 @@
+C:\Users\Ana\Documents\Entrevistas\TesteBD\ClassLibrary1\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Documents\Entrevistas\TesteBD\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Ana\Documents\Entrevistas\TesteBD\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Ana\Documents\Entrevistas\TesteBD\ClassLibrary1\bin\Debug\DataAccess.dll
+C:\Users\Ana\Documents\Entrevistas\TesteBD\ClassLibrary1\bin\Debug\DomainModel.dll
+C:\Users\Ana\Documents\Entrevistas\TesteBD\ClassLibrary1\bin\Debug\DataAccess.pdb
+C:\Users\Ana\Documents\Entrevistas\TesteBD\ClassLibrary1\bin\Debug\DomainModel.pdb
+C:\Users\Ana\Documents\Entrevistas\TesteBD\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Ana\Documents\Entrevistas\TesteBD\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
